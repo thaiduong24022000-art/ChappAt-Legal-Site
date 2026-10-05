@@ -1,0 +1,9 @@
+name = "saigonmatch"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# Worker sẽ chạy trên subdomain: saigonmatch.saigonmatch.workers.dev
+# Hoặc có thể cấu hình custom domain sau
+
+[env.production]
+name = "saigonmatch"
