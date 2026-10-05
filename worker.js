@@ -3,8 +3,8 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     const path = url.pathname;
-
-    // Mapping các routes tới nội dung
+    console.log("hihi");
+    // Mapping các routes tới nội dung update lại nè
     const routes = {
       '/': indexHTML,
       '/index.html': indexHTML,
