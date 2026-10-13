@@ -244,12 +244,36 @@ const privacyHTML = `<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chính sách bảo mật - SaiGon Match</title>
+    <meta name="description" content="Official Privacy Policy for SaiGon Match, package saigonmatch.com.vn, published on Google Play by SaiGonDating.">
+    <title>Privacy Policy - SaiGon Match</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h1>🔒 Chính sách bảo mật</h1>
+        <h1>Privacy Policy</h1>
+        <p style="margin-top: -15px; text-align: center; color: #666; font-style: italic;">
+            Last updated: October 13, 2026
+        </p>
+
+        <h2>Developer Information</h2>
+        <div style="background: #f8f7ff; border: 1px solid #d8d2ff; border-radius: 12px; padding: 18px; margin-bottom: 25px;">
+            <p><strong>Official Google Play App:</strong> SaiGon Match (saigonmatch.com.vn)</p>
+            <p><strong>App Name:</strong> SaiGon Match</p>
+            <p><strong>Package Name:</strong> saigonmatch.com.vn</p>
+            <p><strong>Google Play Developer Name:</strong> SaiGonDating</p>
+            <p><strong>Developer/Publisher:</strong> NGUYEN THAI DUONG</p>
+            <p><strong>Developer Account:</strong> nexacrodev</p>
+            <p><strong>Contact Email:</strong> <a href="mailto:supportsaigonmatch@gmail.com">supportsaigonmatch@gmail.com</a></p>
+        </div>
+
+        <h2>Introduction</h2>
+        <p>
+            This is the official Privacy Policy for the Google Play app listing <strong>SaiGon Match</strong>,
+            package name <strong>saigonmatch.com.vn</strong>, published under the Google Play developer name
+            <strong>SaiGonDating</strong>. SaiGon Match is a social matching, chat, discovery, and community
+            app for adults, developed and operated by <strong>NGUYEN THAI DUONG</strong>
+            (developer account: <strong>nexacrodev</strong>).
+        </p>
         
         <h2>1. Thu thập thông tin</h2>
         <p>Chúng tôi thu thập các thông tin sau:</p>
@@ -294,11 +318,11 @@ const privacyHTML = `<!DOCTYPE html>
         <h2>6. Liên hệ</h2>
         <p>
             Nếu có câu hỏi về chính sách bảo mật, vui lòng liên hệ: 
-            <a href="mailto:privacy@saigonmatch.com">privacy@saigonmatch.com</a>
+            <a href="mailto:supportsaigonmatch@gmail.com">supportsaigonmatch@gmail.com</a>
         </p>
         
         <p style="margin-top: 30px; font-style: italic;">
-            Cập nhật lần cuối: 06/10/2026
+            Cập nhật lần cuối: 13/10/2026
         </p>
         
         <a href="index.html" class="back-link">← Quay lại trang chủ</a>
